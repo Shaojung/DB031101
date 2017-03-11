@@ -18,4 +18,11 @@
         android:layout_height="200dp"
         tools:layout="@layout/fragment_my" />
 
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:name="com.example.teacher.db031101.MyFragmentB"
+        android:id="@+id/fragB"
+        tools:layout="@layout/fragment_b" />
+
 </LinearLayout>
